@@ -14,7 +14,7 @@ function Login(){
     }
 
     return <>
-    <section className="bg-gray-700 isolate w-screen h-screen sm:py-40">
+    <section className="bg-gray-700 isolate w-screen h-screen py-20 sm:py-40">
         <div className="mx-auto max-w-2xl p-3">
             <div className="rounded-xl max-w-7xl h-[600px] bg-gray-400">
             <dl className="grid text-center sm:grid-cols-2 pt-3">
